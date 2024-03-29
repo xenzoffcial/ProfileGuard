@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/xenzoffcial/ProfileGuard">
-    <video src="https://github.com/xenzoffcial/ProfileGuard/blob/main/assets/demo.mp4" alt="Xenz Official" /></a>
-</p>
+<video src='https://github.com/xenzoffcial/ProfileGuard/blob/main/assets/demo.mp4' width=180/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
