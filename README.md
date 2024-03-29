@@ -1,5 +1,5 @@
 # JANGAN LUPA KASIH BINTANG:)
-![Video](https://xenz-api.000webhostapp.com/demo.mp4)
+![Video](https://www.xenz-api.000webhostapp.com/demo.mp4)
 
 <p align="center">
   <a href="https://github.com/xenzoffcial/ProfileGuard">
