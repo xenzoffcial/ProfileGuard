@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xenzoffcial/ProfileGuard">
-    <video src="" alt="Xenz Official" /></a>
+    <video src="https://github.com/xenzoffcial/ProfileGuard/blob/main/assets/demo.mp4" alt="Xenz Official" /></a>
 </p>
 
 <p align="center">
