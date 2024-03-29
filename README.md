@@ -1,5 +1,5 @@
 <video controls>
-  <source "" type="video/mp4">
+  <source "https://github.com/xenzoffcial/ProfileGuard/raw/main/assets/demo.mp4" type="video/mp4">
   <source src="videos/real-estate.ogv" type="video/ogg">
   Your browser does not support HTML5 video.  <a href="https://browsehappy.com/" target="_blank">Please upgrade your browser</a>
 </video>
