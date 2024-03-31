@@ -1,4 +1,4 @@
-### Jangan Lupa Kasih Bintang
+### Jangan Lupa Kasih Bintang ⭐⭐⭐
 
 <div align="center">
   <a href="https://github.com/xenzoffcial/ProfileGuard">
