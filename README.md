@@ -16,7 +16,7 @@
 </div>
 
 ### Run script
-```echo
+```python
 pkg update
 pkg upgrade
 pkg install git
