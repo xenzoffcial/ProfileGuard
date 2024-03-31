@@ -6,5 +6,4 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Facebook Profile Guard &font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=10&size=22" />
   </a>
 </p>
-<center><img src="https://raw.githubusercontent.com/xenzoffcial/ProfileGuard/main/assets/demo%20(2).gif"/>
-</center>
+<img style="align:center" src="https://raw.githubusercontent.com/xenzoffcial/ProfileGuard/main/assets/demo%20(2).gif"/>
