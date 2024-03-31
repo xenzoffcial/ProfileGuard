@@ -29,6 +29,18 @@ git clone https://github.com/xenzoffcial/ProfileGuard
 cd ProfileGuard
 python run.py
 ```
+
+### Cara mengambil cookies facebook
+- Buka aplikasi [kiwi browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en&gl=US)
+- Download ekstensi [cookiedoungh]() di kiwi browser jika belom punya
+- Login ke facebook menggunakan kiwi browser
+- Lalu klik titik 3 di pojok kanan atas klik cookiedough
+- Nanti bakal muncul cookie facebooknya
+
+
+
+
+
 #### Social account
 <a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="30" height="30"></a>
 <a href="https://www.instagram.com/xenzsenpai"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Instagram_logo_2022.svg.png" alt="alt text" width="30" height="30"></a>
