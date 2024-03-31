@@ -16,12 +16,13 @@
 </div>
 
 ### Run script
-```
+```c
 pkg update
 pkg upgrade
 pkg install git
 pkg install python
 python -m pip install requests
+rmdir ProfileGuard
 git clone https://github.com/xenzoffcial/ProfileGuard
 cd ProfileGuard
 python run.py
