@@ -10,3 +10,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/xenzoffcial/ProfileGuard/main/assets/demo%20(2).gif"/>
 </div>
+
+### Run script
+```
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+python -m pip install requests
+git clone https://github.com/xenzoffcial/ProfileGuard
+cd ProfileGuard
+python run.py
+```
