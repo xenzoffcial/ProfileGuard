@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif"/>
   <img src="https://raw.githubusercontent.com/xenzoffcial/ProfileGuard/main/assets/demo%20(2).gif"/>
-  Aman gak bang? aman gw aja tes nya pake akun utama
+  <br>Gunanya apaan? Biar foto profile facebook lu gak bisa di screenshot<br>Aman gak bang? aman gw aja tes nya pake akun utama
     
    <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif"/>
 </div>
