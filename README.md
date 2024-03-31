@@ -10,6 +10,7 @@
   <summary><b>lihat selengkapnya </b></summary>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/main/assets/images/horizontal-divider-gradient.gif"/>
   <img src="https://raw.githubusercontent.com/xenzoffcial/ProfileGuard/main/assets/demo%20(2).gif"/>
 </div>
 
