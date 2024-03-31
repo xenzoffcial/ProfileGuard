@@ -16,7 +16,7 @@
 </div>
 
 ### Run script
-```php
+```echo
 pkg update
 pkg upgrade
 pkg install git
