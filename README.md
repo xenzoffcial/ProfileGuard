@@ -26,10 +26,10 @@ python run.py
 ```
 #### Social account
 <a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="30" height="30"></a>
-<a href="https://www.instagram.com/xenz_404"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Instagram_logo_2022.svg.png" alt="alt text" width="30" height="30"></a>
-<a href="https://wa.me/14313411688?text=Assalamualaikum+bang"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/580b57fcd9996e24bc43c543.png" alt="alt text" width="30" height="30"></a>
-<a href="https://t.me/Xenz_X11"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Telegram_2019_Logo.svg.png" alt="alt text" width="30" height="30"></a>
-<a href="https://github.com/Xenz404"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/images%20(5).png" alt="alt text" width="30" height="30"></a>
+<a href="https://www.instagram.com/xenzsenpai"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Instagram_logo_2022.svg.png" alt="alt text" width="30" height="30"></a>
+<a href="https://wa.me/6283138613993?text=Assalamualaikum+bang"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/580b57fcd9996e24bc43c543.png" alt="alt text" width="30" height="30"></a>
+<a href="https://t.me/XenzSenpai"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Telegram_2019_Logo.svg.png" alt="alt text" width="30" height="30"></a>
+<a href="https://github.com/xenzoffcial"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/images%20(5).png" alt="alt text" width="30" height="30"></a>
 
 <div align="center">
   <a href="https://github.com/xenzoffcial/ProfileGuard">
