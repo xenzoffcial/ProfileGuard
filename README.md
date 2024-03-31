@@ -32,7 +32,7 @@ python run.py
 
 ### Cara mengambil cookies facebook
 - Buka aplikasi <b>[kiwi browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en&gl=US)</b>
-- Download ekstensi <b>[cookiedoungh]() </b>di aplikasi <b>kiwi browser </b>jika belom punya
+- Download ekstensi <b>[cookiedoungh](https://chrome.google.com/webstore/detail/cookiedough/hacigcgfiefikmkmmmncaiaijoffndpl) </b>di aplikasi <b>kiwi browser </b>jika belom punya
 - Login ke facebook menggunakan <b>kiwi browser</b>
 - Lalu klik titik 3 di pojok kanan atas klik <b>cookiedough</b>
 - Nanti bakal muncul cookie facebooknya
