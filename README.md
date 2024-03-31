@@ -1,6 +1,6 @@
 ### Jangan Lupa Kasih Bintang
 
-<div><video controls src='https://github.com/xenzoffcial/ProfileGuard/raw/main/assets/demo.mp4'></video></div>
+<div><video controls src='https://xenz-api.000webhostapp.com/demo.mp4'></video></div>
 
 <p align="center">
   <a href="https://github.com/xenzoffcial/ProfileGuard">
