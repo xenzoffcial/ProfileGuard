@@ -6,4 +6,4 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Facebook Profile Guard &font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=10&size=22" />
   </a>
 </p>
-<video src='https://github.com/xenzoffcial/ProfileGuard/raw/main/assets/demo.webm' type='video/webm'>
+```<div></div><video src='https://github.com/xenzoffcial/ProfileGuard/raw/main/assets/demo.webm' type='video/webm'></video></div>```
